@@ -1,0 +1,1 @@
+jmeter -n -t "D:\GitRepositories\Hillel\Homework\QA_Pro\HW Group.jmx" -l "D:\GitRepositories\Hillel\Homework\QA_Pro\result6.csv" -e -o "D:\GitRepositories\Hillel\Homework\QA_Pro\report6"
